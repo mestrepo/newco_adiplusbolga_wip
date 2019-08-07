@@ -73,6 +73,10 @@ firebase deploy
 
 [VueJS and Bootstrap](https://demos.creative-tim.com/vue-now-ui-kit/documentation/)
 
+## Opensource code and tutorials
+
+TBU
+
 # License
 
 Creative Commons License or most restrictive license of constituent software. Attribution required.
