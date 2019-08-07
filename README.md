@@ -75,4 +75,4 @@ firebase deploy
 
 # License
 
-Creative Commons License or most restrictive license of constituent softwae. Attribution required.
+Creative Commons License or most restrictive license of constituent software. Attribution required.
