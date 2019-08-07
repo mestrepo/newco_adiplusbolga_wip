@@ -1,0 +1,66 @@
+[
+  {
+    "description": "Glow for It Kit - TULA Skincare",
+    "id": 1,
+    "price": 84,
+    "quantity": 10,
+    "image": "https://heavyeditorial.files.wordpress.com/2017/05/best-pregnancy-skin-care-products.jpg?quality=65&strip=all",
+    "title": "Kit includes Purifying Face Cleanser (6.7 fl oz), Aqua Infusion Oil-Free Gel Cream (1.7 fl oz) and Glow & Get It Cooling ..."
+  },
+  {
+    "description": "LaFlore Natural Organic Probiotic 3-Step Kit ... ...",
+    "id": 2,
+    "price": 248.0,
+    "quantity": 15,
+    "image": "http://imgcdn.femaledaily.com/2015/11/all-skin-care.jpg",
+    "title": "3 steps. 3 minutes. Every day. It’s that easy to achieve skin that’s balanced, glowing and hydrated"
+  },
+  {
+    "description": "Acne Clearing Kit - TULA Skincare",
+    "id": 3,
+    "price": 95.0,
+    "quantity": 1,
+    "image": "http://www.dickinsonsusa.com/wp-content/uploads/2014/10/skin-care-products.png",
+    "title": "An effective acne regimen that will give you quick results without any of the harsh side effects. No irritation, dryness or flakiness"
+  },
+  {
+    "description": "Men's Skin Care Routine with Eye Cream - System Level 2 | Tiege Hanley",
+    "id": 4,
+    "price": 35.0,
+    "quantity": 2,
+    "image": "https://i.ytimg.com/vi/zm-0NP40Xs8/maxresdefault.jpg",
+    "title": "Tiege Hanley is an uncomplicated men's skin care system designed to wash, moisturize and exfoliate. Enhances your handsome with level one amazing products PLUS fights eye puffiness and dark circles with the anti-aging am/pm eye cream."
+  },
+  {
+    "description": "Bevel Skin Essentials",
+    "id": 5,
+    "price": 34.95,
+    "quantity": 5,
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-skin-care-products-1512649738.jpg?crop=1.00xw:1.00xh;0,0&resize=768:*",
+    "title": "Our Skincare favorites at a great price. Includes 4 oz Face Wash, 4 oz Exfoliating Toner, and 4 oz Moisturizing Face Gel."
+  },
+  {
+    "description": "Exposed Acne Treatment - Basic Kit",
+    "id": 6,
+    "price": 49.95,
+    "quantity": 4,
+    "image": "https://azuraskin.com/wp-content/uploads/2018/01/azura-product-images-02-1200.png",
+    "title": "Basic Kit Includes Facial Cleanser (Salicylic Acid Acne Treatment)The Exposed Facial Cleanser is a gentle yet effective ...Benzoyl Peroxide · Salicylic Acid · Multi-step System · For Blackheads · For Scars"
+  },
+  {
+    "description": "ProactivMD Complete Kit",
+    "id": 7,
+    "price": 64.95,
+    "quantity": 0,
+    "image": "https://images.askmen.com/1080x540/2016/01/07-024653-men_s_skin_care_products_that_actually_work.jpg",
+    "title": "ProactivMD Essentials System + Complete Duo is the core ProactivMD acne retinoid kit with two additional items to complete your skincare"
+  },
+  {
+    "description": "e.l.f. Cosmetics Jet Set Hydration Kit",
+    "id": 8,
+    "price": 15.0,
+    "quantity": 100,
+    "image": "https://beautysaloon.files.wordpress.com/2010/06/products.jpg",
+    "title": "Take your skincare favorites with you everywhere you go with this hydrating, TSA-ready travel-sized kit! This kit includes:Daily Face Cleanser 30ml - Prep and Hydrate Balm 6g -"
+  }
+]

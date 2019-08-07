@@ -1,0 +1,18 @@
+[
+  {
+    "description": "Bevel Skin Essentials",
+    "id": 5,
+    "price": 34.95,
+    "quantity": 5,
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-skin-care-products-1512649738.jpg?crop=1.00xw:1.00xh;0,0&resize=768:*",
+    "title": "Our Skincare favorites at a great price. Includes 4 oz Face Wash, 4 oz Exfoliating Toner, and 4 oz Moisturizing Face Gel."
+  },
+  {
+    "description": "Exposed Acne Treatment - Basic Kit",
+    "id": 6,
+    "price": 49.95,
+    "quantity": 4,
+    "image": "https://azuraskin.com/wp-content/uploads/2018/01/azura-product-images-02-1200.png",
+    "title": "Basic Kit Includes Facial Cleanser (Salicylic Acid Acne Treatment)The Exposed Facial Cleanser is a gentle yet effective ...Benzoyl Peroxide · Salicylic Acid · Multi-step System · For Blackheads · For Scars"
+  }
+]

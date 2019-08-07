@@ -1,0 +1,18 @@
+[
+  {
+    "description": "Acne Clearing Kit - TULA Skincare",
+    "id": 3,
+    "price": 95.0,
+    "quantity": 1,
+    "image": "http://www.dickinsonsusa.com/wp-content/uploads/2014/10/skin-care-products.png",
+    "title": "An effective acne regimen that will give you quick results without any of the harsh side effects. No irritation, dryness or flakiness"
+  },
+  {
+    "description": "Men's Skin Care Routine with Eye Cream - System Level 2 | Tiege Hanley",
+    "id": 4,
+    "price": 35.0,
+    "quantity": 2,
+    "image": "https://i.ytimg.com/vi/zm-0NP40Xs8/maxresdefault.jpg",
+    "title": "Tiege Hanley is an uncomplicated men's skin care system designed to wash, moisturize and exfoliate. Enhances your handsome with level one amazing products PLUS fights eye puffiness and dark circles with the anti-aging am/pm eye cream."
+  }
+]
